@@ -18,7 +18,7 @@ Switch游戏 - 猜颜色 自动解算器。
 
 可通过两种方式运行代码：
 
-1）通过 pypi 下载运行
+1）通过 [pypi](https://test.pypi.org/project/switch_hacker) 下载运行
 
 ```python
 import switch_hacker

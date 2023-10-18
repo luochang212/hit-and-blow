@@ -1,4 +1,0 @@
-import switch_hacker.game
-import switch_hacker.auto_play
-import switch_hacker.experiment
-import switch_hacker.hacker
